@@ -1,2 +1,2 @@
-# Hatchways
+# Memory Game
 Temp repo
